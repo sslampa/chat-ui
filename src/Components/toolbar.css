@@ -1,0 +1,29 @@
+.toolbar-container {
+  height: 100%;
+  top: 70px;
+  right: 0;
+  position: absolute;
+  background-color: #fff;
+  box-shadow: 1px 2px 1px 2px rgba(31,44,52,0.08);
+}
+
+.toolbar-toggle {
+  position: absolute;
+  bottom: 70px;
+  height: 80px;
+  width: 100%;
+  background-color: #efedee;
+  text-align: center;
+}
+
+.toolbar-toggle-off {
+  width: 100px;
+}
+
+.toolbar-toggle-on {
+  width: 300px;
+}
+
+span {
+  line-height: 80px;
+}
